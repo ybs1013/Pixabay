@@ -4,6 +4,10 @@
 
 [https://pixabay.com/zh/editors_choice/?media_type=photo&pagi=](https://pixabay.com/zh/editors_choice/?media_type=photo&pagi=)
 
+图片下载地址：
+
+ 链接：http://pan.baidu.com/s/1skBtfJZ 密码：q82g
+
 源码：
 
 	import requests
